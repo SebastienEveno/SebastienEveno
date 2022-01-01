@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sebastien Eveno</h1>
 <h3 align="center">A Software Development Engineer from France</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sebastieneveno&label=Profile%20views&color=0e75b6&style=flat" alt="sebastieneveno" /> </p>
-
 - 🔭 I’m currently working on [an equity derivatives pricer](https://github.com/SebastienEveno/equity-derivatives-pricer)
 
 - 🌱 I’m currently learning **C#, JavaScript, React**
