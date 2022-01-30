@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [an equity derivatives pricer](https://github.com/SebastienEveno/equity-derivatives-pricer)
 
-- 🌱 I’m currently learning **C#, JavaScript, React**
+- 🌱 I’m currently learning **C#**
 
 - 👨‍💻 All of my projects are available at [https://sebastieneveno.github.io](https://sebastieneveno.github.io)
 
