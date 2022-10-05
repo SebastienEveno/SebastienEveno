@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sebastien Eveno</h1>
-<h3 align="center">A Software Development Engineer based in France!</h3>
+<h3 align="center">A Software Engineer based in France!</h3>
 
 - 🔭 I’m currently working on [an equity derivatives pricer](https://github.com/SebastienEveno/equity-derivatives-pricer)
 
