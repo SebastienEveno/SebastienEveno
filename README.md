@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sebastien Eveno</h1>
-<h3 align="center">A Software Engineer based in France!</h3>
+<h3 align="center">A Quantitative Software Engineer based in France!</h3>
 
 - 👨‍💻 All of my projects are available at [https://sebastieneveno.github.io](https://sebastieneveno.github.io)
 
